@@ -4,6 +4,6 @@
 - 💻 I'm currently working on data cleaning project
 
 <!---
-Somnath4/Somnath4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SomnathMalik/SomnathMalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
