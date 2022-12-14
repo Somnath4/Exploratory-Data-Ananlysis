@@ -1,1 +1,2 @@
-# Exploratory data analysis
+# Exploratory data analysis: Global suicide rate
+
